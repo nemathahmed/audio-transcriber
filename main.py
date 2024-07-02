@@ -50,7 +50,7 @@ def transcribe_audio_segments(audio_file_path):
 
 # Streamlit app
 def main():
-    st.title("👩 ✍️ NJ's Audio Transcriber")
+    st.title("👩 ✍️ Anju's Audio Transcriber")
 
     # File upload
     uploaded_file = st.file_uploader("Upload an audio file (.m4a, .mp3, .wav)")
